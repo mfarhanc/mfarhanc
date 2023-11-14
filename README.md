@@ -10,6 +10,6 @@ I'm enthusiastic about leveraging my skills in both front-end and back-end devel
 - 💬 Let's connect! I'm open to collaborations, discussions, and always up for a good coding conversation.
 
 ## Get in Touch
-📫 You can reach out to me via email at [muhammadfarhanchaniago5@gmail.com] or connect with me on [https://www.linkedin.com/in/mfarhanc/].
+📫 You can reach out to me via email at muhammadfarhanchaniago5@gmail.com or connect with me on https://www.linkedin.com/in/mfarhanc/.
 
 Looking forward to connecting and creating wonderful web experiences together!
