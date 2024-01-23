@@ -1,4 +1,4 @@
-# Muhammad Farhan Chaniago - Junior Full Stack Web Developer
+# Muhammad Farhan Chaniago - Full Stack Web Developer
 
 Hello there! 👋 I'm Muhammad Farhan Chaniago, a Junior Full Stack Web Developer passionate about crafting engaging and user-friendly web experiences.
 
